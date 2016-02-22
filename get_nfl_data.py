@@ -59,7 +59,7 @@ player_position = {
 position = player_position[options.position]
 
 #CSV Header
-print "team,player,opposition,passing_yds,passing_td,passing_int,rushing_yds,rushing_td,receving_yds,receiving_td,misc_fumTD,misc_2pt,fum_lost,fantasy,week,game_year"
+print "team,player,opposition,passing_yds,passing_td,passing_int,rushing_yds,rushing_td,receving_yds,receiving_td,misc_fumTD,misc_2pt,fum_lost,fantasy,week,game_year,home_game"
 
 
 lines_per_page = 25
